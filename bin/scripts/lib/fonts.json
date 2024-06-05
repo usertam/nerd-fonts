@@ -1,11 +1,11 @@
 {
   "fonts": [
     {
-      "unpatchedName": "BrassMono",
+      "unpatchedName": "Brass Mono",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "1.100",
-      "patchedName": "BrassMono",
+      "patchedName": "Brass Mono",
       "folderName": "BrassMono",
       "imagePreviewFont": "Brass Mono Nerd Font",
       "imagePreviewFontSource": "BrassMono/BrassMono-Regular.ttf",

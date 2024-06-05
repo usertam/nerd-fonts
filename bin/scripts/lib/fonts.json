@@ -11,7 +11,7 @@
       "imagePreviewFontSource": "BrassMono/BrassMono-Regular.ttf",
       "linkPreviewFont": "brassmono",
       "caskName": "brassmono",
-      "repoRelease": false,
+      "repoRelease": true,
       "description": "An opinionated font"
     }
   ]
